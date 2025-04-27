@@ -5,7 +5,7 @@ import './index.css';
 export default component$(() => {
   return (
     <>
-      <h1>Hello World 👋</h1>
+      <h1>Hello World👋</h1>
       <div>
         Building with Qwick is so cool and qwick!
         <br />
